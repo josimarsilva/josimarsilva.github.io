@@ -1,6 +1,6 @@
 # main text of home
 name: Josimar A. Silva
-bio: Geophysicist
+bio: Geoscientist
 
 # twitter summary info
 description: Website about Geomechanics, Geophysics and Environmental Engineering
@@ -8,7 +8,7 @@ description: Website about Geomechanics, Geophysics and Environmental Engineerin
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Josimar_Photo.jpg
+picture: assets/images/Josimar_Photo.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -41,7 +41,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: josimarsilva
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -85,6 +85,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+publications: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
