@@ -14,7 +14,7 @@ picture: assets/images/Josimar_Photo.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.dropbox.com/s/1pt1nwirpe5rivi/Josimar_CV.pdf?dl=0
 
 url: https://josimarsilva.github.io
 # your url: https://USERNAME.github.io
@@ -84,7 +84,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 publications: true
 
 # do you want to show the "read time" of the posts?
