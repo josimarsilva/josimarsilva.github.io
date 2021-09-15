@@ -86,7 +86,7 @@ projects: true
 about: true
 #blog: true
 publications: true
-CV: true
+cv: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
