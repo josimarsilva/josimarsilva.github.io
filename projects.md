@@ -2,7 +2,9 @@
 layout: page
 title: Projects
 ---
-## Current projects
+## Sample projects
+
+Below are examples of projects that I am currently working on and that I have completed. 
 
 ### Earthquake hazards and oil production in the Los Angeles Basin
 
@@ -24,19 +26,17 @@ Large-scale CO<sub>2</sub> storage in geological formations is an essential clim
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-## Past projects
 
 ### Revisiting the classical experiment on earthquake control at Rangely, CO, using coupled multiphase flow and geomechanics
 
-This project revisited the classical field experiment on earthquake control conducted at the Rangely oil field, CO, using coupled flow and geomechanics. In this experiment, multiple cycles of water injection and withdrawal were performed, with the associated microseismicity monitored. The original experiment was seminal to show *qualitatively* that fluid injection in subsurface can induce earthquakes. Using coupled multiphase flow and geomechanics, this project provided a mechanistic *quantitative* explanation for why and how water injection resulted in earthquake occurrence.
+This project revisited the classical field experiment on earthquake control conducted at the Rangely oil field, CO, in 1970. In this experiment, multiple cycles of water injection and water withdrawal were performed, with the associated microseismicity monitored. The original experiment was seminal to show *qualitatively* that fluid injection in subsurface can induce earthquakes. Using coupled multiphase flow and geomechanics, this project provided a mechanistic *quantitative* explanation for why and how water injection resulted in earthquake occurrence.
 
 Additional information about this work can be found in the following references:
 
-Revisiting the classical experiment in earthquake control at the Rangely oil field, Colorado, 1970, using a coupled flow and geomechanical Model. Josimar A. Silva, Hannah Byrne, Andreas Plesch, John H. Shaw, Ruben Juanes; *Bulletin of the Seismological Society of America*; 2021; [https://doi.org/10.1785/0120210020](https://pubs.geoscienceworld.org/ssa/bssa/article/doi/10.1785/0120210020/606658/Revisiting-the-Classical-Experiment-in-Earthquake)
+1. Revisiting the classical experiment in earthquake control at the Rangely oil field, Colorado, 1970, using a coupled flow and geomechanical Model. Josimar A. Silva, Hannah Byrne, Andreas Plesch, John H. Shaw, Ruben Juanes; *Bulletin of the Seismological Society of America*; 2021; [https://doi.org/10.1785/0120210020](https://pubs.geoscienceworld.org/ssa/bssa/article/doi/10.1785/0120210020/606658/Revisiting-the-Classical-Experiment-in-Earthquake)
 
-The groundbreaking experiment in earthquake control at Rangely, Colorado, revisited. Hannah Byrne, Josimar A. Silva, Andreas Plesch, John H. Shaw, Ruben Juanes; *Geophysical Research Letters*, 47, e2020GL088257; 2020; [https://doi.org/10.1029/2020GL088257](https://doi.org/10.1029/2020GL088257)
+2. The groundbreaking experiment in earthquake control at Rangely, Colorado, revisited. Hannah Byrne, Josimar A. Silva, Andreas Plesch, John H. Shaw, Ruben Juanes; *Geophysical Research Letters*, 47, e2020GL088257; 2020; [https://doi.org/10.1029/2020GL088257](https://doi.org/10.1029/2020GL088257)
 
 
 | ![My Image](/assets/images/Rangely/Rangely_Figure.png) |
