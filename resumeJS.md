@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: resumeJS
 ---
 ### Education
 **09/2020** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Geophysics,  Massachusetts Institute of Technology, Cambridge, MA, USA
