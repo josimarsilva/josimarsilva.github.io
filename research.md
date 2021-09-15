@@ -3,13 +3,9 @@ layout: page
 title: Research
 ---
 ## Research interests
-I research the interaction between anthropogenic subsurface activities and seismic and environmental hazards. Injection and production of fluids into/from geological formations is essential to many energy and environmental problems. For example, oil and gas production, hydraulic fracturing, wastewater disposal and enhanced geothermal energy production are important activities associated with energy production. Similarly, large-scale CO<sub>2</sub> storage in geological formations is an important climate change mitigation technology. These activities, however, can often pose a risk to infrastructures by
+I research the interaction between anthropogenic subsurface activities and seismic and environmental hazards. Injection and production of fluids into/from geological formations is essential to many energy and environmental problems. For example, oil and gas production, hydraulic fracturing, wastewater disposal and enhanced geothermal energy production are important activities associated with energy production activities. Similarly, large-scale CO<sub>2</sub> storage in geological formations is an important climate change mitigation technology. These activities, however, can often induce earthquakes that, in some cases, can pose a risk to infrastructure. Therefore, understanding the physical mechanisms that can lead to these earthquake occurrences is an important first step towards mitigation strategies.
 
- There are many human-related subsurface activities that can generate unintended negative outcomes in the form of, for example, earthquakes and fluid leakage into shallower geological formations. Among the subsurface activities
-
-## Sample projects
-
-Below are examples of projects that I am currently working on and that I have completed.
+Below are examples of projects that illustrate my research activities on the topic of anthropogenic activities and earthquake hazards.
 
 ### Earthquake hazards and oil production in the Los Angeles Basin
 
@@ -33,7 +29,7 @@ Large-scale CO<sub>2</sub> storage in geological formations is an essential clim
 <p>&nbsp;</p>
 
 
-### Revisiting the classical experiment on earthquake control at Rangely, CO, using coupled multiphase flow and geomechanics
+### Revisiting the classical experiment on earthquake control at Rangely, Colorado, using coupled multiphase flow and geomechanics
 
 This project revisited the classical field experiment on earthquake control conducted at the Rangely oil field, CO, in 1970. In this experiment, multiple cycles of water injection and water withdrawal were performed, with the associated microseismicity monitored. The original experiment was seminal to show *qualitatively* that fluid injection in subsurface can induce earthquakes. Using coupled multiphase flow and geomechanics, this project provided a mechanistic *quantitative* explanation for why and how water injection resulted in earthquake occurrence.
 
