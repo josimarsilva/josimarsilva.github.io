@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
+## Research interests
+I research the interaction between anthropogenic subsurface activities and seismic and environmental hazards. Injection and production of fluids into/from geological formations is essential to many energy and environmental problems. For example, oil and gas production, hydraulic fracturing, wastewater disposal and enhanced geothermal energy production are important activities associated with energy production. Similarly, large-scale CO<sub>2</sub> storage in geological formations is an important climate change mitigation technology. These activities, however, can often pose a risk to infrastructures by
+
+ There are many human-related subsurface activities that can generate unintended negative outcomes in the form of, for example, earthquakes and fluid leakage into shallower geological formations. Among the subsurface activities
+
 ## Sample projects
 
-Below are examples of projects that I am currently working on and that I have completed. 
+Below are examples of projects that I am currently working on and that I have completed.
 
 ### Earthquake hazards and oil production in the Los Angeles Basin
 
